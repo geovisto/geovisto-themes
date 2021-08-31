@@ -5,6 +5,8 @@ This repository is a snapshot of Geoviosto ``tools/themes`` derived from the dev
 
 ## Usage
 
+![sample](https://user-images.githubusercontent.com/1479229/131548390-5fae5b11-b7d3-47ca-83b4-5e74859fd245.png)
+
 ```js
 import {
     GeovistoThemesTool
