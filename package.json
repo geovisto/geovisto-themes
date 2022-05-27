@@ -1,6 +1,6 @@
 {
   "name": "geovisto-themes",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "Geovisto tool which provides support for custom style themes",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -22,6 +22,10 @@
     "visualization"
   ],
   "homepage": "https://github.com/geovisto/geovisto-themes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geovisto/geovisto-themes"
+  },
   "author": {
     "name": "Jiri Hynek",
     "url": "https://github.com/jirka"
@@ -54,7 +58,7 @@
     "@typescript-eslint/parser": "^4.28.5",
     "autoprefixer": "^10.3.1",
     "eslint": "^7.31.0",
-    "geovisto": "^1.0.0",
+    "geovisto": "^2.0.0",
     "husky": "^7.0.1",
     "leaflet": "^1.7.1",
     "postcss": "^8.3.6",
@@ -71,6 +75,6 @@
     "typescript": "^4.3.5"
   },
   "peerDependencies": {
-    "geovisto": "^1.0.0"
+    "geovisto": "^2.0.0"
   }
 }
